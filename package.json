@@ -1,7 +1,7 @@
 {
-  "name": "xmlhttprequest",
+  "name": "welcap-xmlhttprequest",
   "description": "XMLHttpRequest for Node",
-  "version": "1.8.0",
+  "version": "1.8.0-welcap",
   "author": {
     "name": "Dan DeFelippi",
     "url": "http://driverdan.com"
